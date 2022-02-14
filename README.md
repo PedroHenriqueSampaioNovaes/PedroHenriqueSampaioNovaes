@@ -1,5 +1,5 @@
 ### Olá, seja bem-vindo(a)! 👋
-Sou um estudante 🧑‍🎓 de Análise e Desenvolvimento de Sistemas (ADS) 📖 em busca de um estágio para desenvolvimento web frontend!
+Sou um estudante 🧑‍🎓 de Análise e Desenvolvimento de Sistemas (ADS) 📖 em busca de um estágio para desenvolvimento web front-end!
 
 - Estudante de HTML
 - Estudante de CSS
