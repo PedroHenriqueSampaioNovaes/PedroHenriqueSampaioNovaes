@@ -1,10 +1,13 @@
 ### Olá, seja bem-vindo(a)! 👋
 Sou um estudante 🧑‍🎓 de Análise e Desenvolvimento de Sistemas (ADS) 📖 em busca de um estágio para desenvolvimento web front-end!
 
-- Estudante de HTML
-- Estudante de CSS
-- Estudante de JavaScript
-- Estudante de React
+Estudando as seguintes tecnologias:
+- HTML
+- CSS
+- JavaScript
+- React
+- NodeJS
+- MongoDB
 
 <div style="display: inline-block;">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
