@@ -5,8 +5,10 @@ Estudando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- React
 - TypeScript
+- React
+- Next
+- Jest
 - NodeJS
 - MongoDB
 
