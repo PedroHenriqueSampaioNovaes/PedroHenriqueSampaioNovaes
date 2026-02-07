@@ -8,7 +8,9 @@ Estudando as seguintes tecnologias:
 - TypeScript
 - React
 - Next
+- Vite
 - Jest
+- React Testing Library
 - NodeJS
 - MongoDB
 
