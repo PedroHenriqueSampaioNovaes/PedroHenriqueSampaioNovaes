@@ -33,4 +33,9 @@ Estudando as seguintes tecnologias:
 <a href="https://www.linkedin.com/in/pedrohenriquesampaiodenovaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:pedrohenriquesampaiodenovaes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![snake gif](https://github.com/PedroHenriqueSampaioNovaes/PedroHenriqueSampaioNovaes/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+
+   ![snake gif](https://github.com/PedroHenriqueSampaioNovaes/PedroHenriqueSampaioNovaes/blob/output/github-snake-dark.svg)
+</div>
+
+
