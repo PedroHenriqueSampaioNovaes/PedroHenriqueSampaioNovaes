@@ -12,6 +12,7 @@ Estudando as seguintes tecnologias:
 - Jest
 - React Testing Library
 - NodeJS
+- PostgreSQL
 - MongoDB
 
 <div style="display: inline-block;">
