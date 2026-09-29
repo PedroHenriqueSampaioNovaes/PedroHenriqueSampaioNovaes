@@ -1,5 +1,5 @@
 ### Olá, seja bem-vindo(a)! 👋
-Sou o Pedro e estou em busca de uma oportunidade para desenvolvimento web front-end!
+Sou o Pedro e estou em busca de uma oportunidade para desenvolvimento web front-end/full-stack!
 
 Estudando as seguintes tecnologias:
 - HTML
